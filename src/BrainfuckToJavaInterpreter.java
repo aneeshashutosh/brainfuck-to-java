@@ -6,7 +6,7 @@ import static java.lang.System.out;
  * @author: aneeshashutosh
  */
 
-public class BrainfuckToJavaCompiler {
+public class BrainfuckToJavaInterpreter {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         out.println("Enter your Brainfuck code below.");
